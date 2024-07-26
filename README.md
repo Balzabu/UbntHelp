@@ -1,6 +1,6 @@
 # UbntHelp
 
-UbntHelp is a Bash script designed to assist users in managing Ubiquiti devices, which are widely used and managed by Wireless Internet Service Providers (WISPs). This script was developed to provide an easier way to manage essential functionalities of the Ubiquiti devices through SSH for occurrances where the web interface is unusable due to slow connections.
+UbntHelp is a Bash script designed to assist users in managing Ubiquiti devices, which are widely used and managed by Wireless Internet Service Providers (WISPs). This script was developed to provide an easier way to manage essential functionalities of the Ubiquiti devices through SSH for occurrances where the web interface was unusable due to slow connections.
 Made in 2021 approx.
 
 ## Features
